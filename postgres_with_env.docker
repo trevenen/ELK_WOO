@@ -1,6 +1,7 @@
 #http://www.projectatomic.io/docs/docker-image-author-guidance/
 #https://keyholesoftware.com/2018/11/13/gaining-docker-image-size-efficiencies-by-separating-application-layers/
 #https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/
+#https://stackify.com/guide-docker-java/
 #!/bin/bash
 set -e
 
