@@ -2,6 +2,7 @@
 #https://keyholesoftware.com/2018/11/13/gaining-docker-image-size-efficiencies-by-separating-application-layers/
 #https://developers.redhat.com/blog/2016/02/24/10-things-to-avoid-in-docker-containers/
 #https://stackify.com/guide-docker-java/
+#https://blog.ruanbekker.com/posts/4/
 #!/bin/bash
 set -e
 
