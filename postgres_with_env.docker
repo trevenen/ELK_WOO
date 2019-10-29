@@ -1,3 +1,4 @@
+#http://www.projectatomic.io/docs/docker-image-author-guidance/
 #!/bin/bash
 set -e
 
